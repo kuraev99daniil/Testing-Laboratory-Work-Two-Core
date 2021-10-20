@@ -1,0 +1,28 @@
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.deps.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.runtimeconfig.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.runtimeconfig.dev.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.csprojAssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.AssemblyInfoInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.AssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core\Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.genruntimeconfig.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.deps.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.runtimeconfig.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.runtimeconfig.dev.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.csprojAssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.AssemblyInfoInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.AssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.genruntimeconfig.cache
