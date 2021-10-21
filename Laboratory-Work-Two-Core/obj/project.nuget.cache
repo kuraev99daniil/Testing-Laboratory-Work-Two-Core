@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pE1emnFnFeWHpzMz9ypCF9QoEWlo6QFPbXC5Mugi+FYlFbGyXS6XykA4uGiEhux5e3M9YlKuL4xpszzazpShmg==",
+  "dgSpecHash": "loCvcU7kaTDBDqzwe0sji4uLiwzRs5vfPJ2d9mhCmfguT3MgPrcOAAxNDLKnHqux/QuoY1sv0H1wo+GGFoHm3g==",
   "success": true,
   "projectFilePath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 2\\Laboratory Work Two Core Git\\Testing-Laboratory-Work-Two-Core\\Laboratory-Work-Two-Core\\Laboratory-Work-Two-Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kuraev_daniil\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
   ],
   "logs": []

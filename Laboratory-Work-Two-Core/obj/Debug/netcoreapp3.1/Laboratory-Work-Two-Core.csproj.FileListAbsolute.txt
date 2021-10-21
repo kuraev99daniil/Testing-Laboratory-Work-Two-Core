@@ -26,3 +26,5 @@ D:\Institute\Семестр 7\Тестирование\Лабораторная 
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.dll
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.pdb
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.genruntimeconfig.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\Laboratory-Work-Two-Core\obj\Debug\netcoreapp3.1\Laboratory-Work-Two-Core.csproj.CopyComplete

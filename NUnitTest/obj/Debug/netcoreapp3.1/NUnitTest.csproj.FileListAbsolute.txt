@@ -204,3 +204,4 @@ D:\Institute\Семестр 7\Тестирование\Лабораторная 
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.dll
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.pdb
 D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.genruntimeconfig.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Core Git\Testing-Laboratory-Work-Two-Core\NUnitTest\bin\Debug\netcoreapp3.1\CsvHelper.dll

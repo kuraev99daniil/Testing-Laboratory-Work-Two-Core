@@ -15,99 +15,84 @@ namespace NUnitTest
         [Test]
         public void Sin()
         {
-            var x = 0.5;
-            var standard = Math.Sin(x);
-            var custom = MathFunctions.Sin(x);
-
-            Assert.AreEqual(standard, custom, 0.0001);
+            for (double i = -4; i < 4; i += 0.5)
+            {
+                Assert.AreEqual(Math.Sin(i), MathFunctions.Sin(i), 0.0001);
+            }
         }
 
         [Test]
         public void Cos()
         {
-            var x = 0.5;
-            var standard = Math.Cos(x);
-            var custom = MathFunctions.Cos(x);
-
-            Assert.AreEqual(standard, custom, 0.0001);
+            for (double i = -4; i < 4; i += 0.5)
+            {
+                Assert.AreEqual(Math.Cos(i), MathFunctions.Cos(i), 0.0001);
+            }
         }
 
         [Test]
         public void Csc()
         {
-            var x = 0.5;
-            var standard = 1 / Math.Sin(x);
-            var custom = MathFunctions.Csc(x);
-
-            Assert.AreEqual(standard, custom, 0.0001);
+            for (double i = -4; i < 4; i += 0.5)
+            {
+                Assert.AreEqual(1 / Math.Sin(i), MathFunctions.Csc(i), 0.0001);
+            }
         }
 
         [Test]
         public void Log()
         {
-            var x = 10;
             var newBase = 2;
-
-            var standard = Math.Log(x, newBase);
-            var custom = MathFunctions.Log(x, newBase);
-
-            Assert.AreEqual(standard, custom, 0.001);
+            for (double i = 10; i < 16; i += 0.5)
+            {
+                Assert.AreEqual(Math.Log(i, newBase), MathFunctions.Log(i, newBase), 0.001);
+            }
         }
 
         [Test]
         public void Exp()
         {
-            var x = 16;
-
-            var standard = Math.Exp(x);
-            var custom = MathFunctions.Exp(x);
-
-            Assert.AreEqual(standard, custom, 0.001);
+            for (double i = 10; i < 16; i += 0.5)
+            {
+                Assert.AreEqual(Math.Exp(i), MathFunctions.Exp(i), 0.001);
+            }
         }
 
         [Test]
         public void Power()
         {
-            var x = 10;
-            var radix = 15;
-
-            var standard = Math.Pow(x, radix);
-            var custom = MathFunctions.Power(x, radix);
-
-            Assert.AreEqual(standard, custom, 0.01);
+            var radix = 2;
+            for (double i = 10; i < 16; i += 0.5)
+            {
+                Assert.AreEqual(Math.Pow(i, radix), MathFunctions.Power(i, radix), 0.001);
+            }
         }
 
         [Test]
         public void NegativeAbs()
         {
-            var x = -0.5;
-
-            var standard = Math.Abs(x);
-            var custom = MathFunctions.Abs(x);
-
-            Assert.AreEqual(standard, custom);
+            for (double i = -4; i < -1; i += 0.5)
+            {
+                Assert.AreEqual(Math.Abs(i), MathFunctions.Abs(i), 0.001);
+            }
         }
 
         [Test]
         public void PositiveAbs()
         {
-            var x = 0.5;
-
-            var standard = Math.Abs(x);
-            var custom = MathFunctions.Abs(x);
-
-            Assert.AreEqual(standard, custom);
+            for (double i = 0; i < 4; i += 0.5)
+            {
+                Assert.AreEqual(Math.Abs(i), MathFunctions.Abs(i), 0.001);
+            }
         }
 
         [Test]
         public void Arctg()
         {
-            var x = 5;
-
-            var standard = Math.Atan(x);
-            var custom = PowerSeries.GetArctg(x);
-
-            Assert.AreEqual(standard, custom, 0.0001);
+            for (double i = 1; i < 4; i += 0.5)
+            {
+                Assert.AreEqual(Math.Atan(i), PowerSeries.GetArctg(i), 0.01);
+            }
         }
 
         [Test]

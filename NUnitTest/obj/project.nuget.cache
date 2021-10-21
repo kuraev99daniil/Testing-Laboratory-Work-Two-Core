@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lcnjP5rP8+1i4iewUuE9/il4s6M92oCz1F8OwC0ADCJZviL8MXmwCAD9APNiLoILKnnAl3CPXbUjfg15ZGtvIQ==",
+  "dgSpecHash": "jMyvErdOwQhhKAGNgDBwlYD+BuoAbDoopNMwnYeIkByl5dvOt8LslqstVD3t02mxujsr0az0h1WNFSIyDSpuiw==",
   "success": true,
   "projectFilePath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 2\\Laboratory Work Two Core Git\\Testing-Laboratory-Work-Two-Core\\NUnitTest\\NUnitTest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kuraev_daniil\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
     "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
-    "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "C:\\Users\\kuraev_daniil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
