@@ -4,24 +4,16 @@ namespace Laboratory_Work_Two_Core
 {
     public static class PowerSeries
     {
-        public static double eps = 0.0000001;
-
-        public static double GetArctg(double x)
+        public static double GetArctg(double x, int n = 0, double precision = 0.001)
         {
-            double function = Math.PI / 2;
-            double n = 1;
-            double count = 0;
-
-            double expression;
-            do
+            double t = MathFunctions.Power(-1, n) * MathFunctions.Power(x, 2 * n + 1) / (uint)(2 * n + 1);
+            
+            if (MathFunctions.Abs(t) < precision)
             {
-                count++;
-                expression = MathFunctions.Power(-1, (int)count % 2) / (MathFunctions.Power(x, (int)n) * n);
-                function += expression;
-                n += 2;
-            } while (MathFunctions.Abs(expression) > eps);
+                return t;
+            }
 
-            return function;
+            return t + GetArctg(x, n + 1, precision);
         }
     }
 }

@@ -64,7 +64,7 @@
 
 		public static double Ln(double power)
 		{
-			if (power == 1) return 0;
+			if (power == 0 || power == 1) return 0;
 
 			const double e = 2.71828182845905;
 			var p = power;

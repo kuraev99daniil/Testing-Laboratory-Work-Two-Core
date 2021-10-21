@@ -89,7 +89,7 @@ namespace NUnitTest
         [Test]
         public void Arctg()
         {
-            for (double i = 1; i < 4; i += 0.5)
+            for (double i = -1; i < 1; i += 0.001)
             {
                 Assert.AreEqual(Math.Atan(i), PowerSeries.GetArctg(i), 0.01);
             }
