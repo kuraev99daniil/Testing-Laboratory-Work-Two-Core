@@ -1,4 +1,6 @@
-﻿namespace Laboratory_Work_Two_Core
+﻿using System;
+
+namespace Laboratory_Work_Two_Core
 {
     public static class MathFunctions
     {
@@ -64,7 +66,9 @@
 
 		public static double Ln(double power)
 		{
-			if (power == 0 || power == 1) return 0;
+			if (power <= 0) return double.NegativeInfinity;
+
+			if (power == 1) return 0;
 
 			const double e = 2.71828182845905;
 			var p = power;
@@ -93,6 +97,11 @@
 
 		public static double Log(double x, double newBase)
 		{
+			if (newBase <= 0 || x <= 0)
+            {
+				return double.NaN;
+            }
+
 			return Ln(x) / Ln(newBase);
 		}
 
@@ -162,14 +171,29 @@
 				return 1;
 			}
 
-			if (n % 2 == 0)
+			if (n > 0)
 			{
-				var p = Power(x, n / 2);
-				return p * p;
+				if (n % 2 == 0)
+				{
+					double p = Power(x, n / 2);
+
+					return p * p;
+				}
+				else
+				{
+					return x * Power(x, n - 1);
+				}
 			}
 			else
 			{
-				return x * Power(x, n - 1);
+				double result = 1;
+
+				for (int i = 1; i <= Abs(n); i++)
+				{
+					result *= x;
+				}
+
+				return 1 / result;
 			}
 		}
 

@@ -10,12 +10,11 @@ namespace Laboratory_Work_Two_Core
 
 		static void Main(string[] args)
         {
-
 			var paramsDefault = new Params(-10, 10, 0.01);
 			CalculateValues(x => MathFunctions.Sin(x), "sin", paramsDefault);
 			CalculateValues(x => MathFunctions.Cos(x), "cos", paramsDefault);
 			CalculateValues(x => MathFunctions.Exp(x), "exp", paramsDefault);
-			CalculateValues(x => PowerSeries.GetArctg(x), "power", new Params(-1, 1, 0.001));
+			CalculateValues(x => PowerSeries.GetArctg(x), "arctg", new Params(-1, 1, 0.001));
 
 			var positiveParams = new Params(0, 10, 0.01);
 			CalculateValues(x => MathFunctions.Ln(x), "ln", positiveParams);
