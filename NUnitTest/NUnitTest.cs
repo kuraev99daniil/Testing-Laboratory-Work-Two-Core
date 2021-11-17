@@ -39,7 +39,6 @@ namespace NUnitTest
             }
         }
 
-        // от нуля
         [Test]
         public void Log()
         {
@@ -90,7 +89,7 @@ namespace NUnitTest
         {
             for (double i = -1; i < 1; i += 0.001)
             {
-                Assert.AreEqual(Math.Atan(i), PowerSeries.GetArctg(i), 0.01);
+                Assert.AreEqual(Math.Atan(i), TrigonometricFunctions.GetArctg(i), 0.01);
             }
         }
 

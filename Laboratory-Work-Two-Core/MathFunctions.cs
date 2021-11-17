@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Laboratory_Work_Two_Core
+﻿namespace Laboratory_Work_Two_Core
 {
     public static class MathFunctions
     {

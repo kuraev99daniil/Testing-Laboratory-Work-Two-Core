@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace Laboratory_Work_Two_Core
+﻿namespace Laboratory_Work_Two_Core
 {
-    public static class PowerSeries
+    public static class TrigonometricFunctions
     {
         public static double GetArctg(double x, int n = 0, double precision = 0.001)
         {

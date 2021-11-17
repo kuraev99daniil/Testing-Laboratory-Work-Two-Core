@@ -1,4 +1,5 @@
 ﻿using System;
+using static Laboratory_Work_Two_Core.MathFunctions;
 
 namespace Laboratory_Work_Two_Core
 {
@@ -8,11 +9,11 @@ namespace Laboratory_Work_Two_Core
         {
             if (x <= 0)
             {
-                return MathFunctions.Power(((MathFunctions.Sec(x) - MathFunctions.Cot(x) + MathFunctions.Cos(x)) * MathFunctions.Tan(x)) + (MathFunctions.Csc(x) / (MathFunctions.Csc(x) / MathFunctions.Cot(x))), 2);
+                return Power(((MathFunctions.Sec(x) - MathFunctions.Cot(x) + Cos(x)) * Tan(x)) + (MathFunctions.Csc(x) / (MathFunctions.Csc(x) / MathFunctions.Cot(x))), 2);
             }
             else
             {
-                return ((MathFunctions.Log(x, 3) - MathFunctions.Log(x, 3) - MathFunctions.Log(x, 5)) * MathFunctions.Power(MathFunctions.Log(x, 10), 2) * (MathFunctions.Ln(x) * (MathFunctions.Log(x, 3) / (MathFunctions.Ln(x) + MathFunctions.Log(x, 10))))) + MathFunctions.Power(MathFunctions.Log(x, 10), 2) + MathFunctions.Log(x, 10);
+                return ((Log(x, 3) - Log(x, 3) - Log(x, 5)) * Power(Log(x, 10), 2) * (Ln(x) * (Log(x, 3) / (Ln(x) + Log(x, 10))))) + Power(Log(x, 10), 2) + Log(x, 10);
             }
         }
 
